@@ -1,0 +1,4 @@
+{
+  "name": "AI Agent Deep Dive",
+  "install": "pip install --user poetry && export PATH=\"$HOME/.local/bin:$PATH\" && poetry install --no-interaction"
+}
